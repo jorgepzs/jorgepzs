@@ -6,7 +6,7 @@
 
 
 
-- 🔥 Júnior Web Developer  
+- 🔥 Bakcend Developer
 
 - 🔭 I’m currently working at Healents Digital Agency 
 
