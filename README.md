@@ -6,7 +6,7 @@
 
 
 
-- 🔥 Bakcend Developer
+- 🔥 Backend Developer
 
 - 🔭 I’m currently working at Healents Digital Agency 
 
